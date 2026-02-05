@@ -17,7 +17,9 @@ Analysis of 379 survey digest emails to optimize clicks-to-kicks ratio through s
 ## Files
 
 - **[email_digest_copy_analysis.md](email_digest_copy_analysis.md)** - Complete analysis with examples, recommendations, and implementation guide
-- **digest_copy_visualizations.png** - Visual analysis charts
+- **[truncation_analysis.md](truncation_analysis.md)** - Analysis of whether "and Other Survey Opportunities" visibility affects performance
+- **digest_copy_visualizations.png** - Visual analysis charts for main copy analysis
+- **truncation_analysis.png** - Visual analysis charts for truncation study
 
 ## Quick Start
 
