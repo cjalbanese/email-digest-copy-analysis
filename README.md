@@ -16,8 +16,19 @@ Analysis of 379 survey digest emails to optimize clicks-to-kicks ratio through s
 
 ## Files
 
+### Analysis Documents
 - **[email_digest_copy_analysis.md](email_digest_copy_analysis.md)** - Complete analysis with examples, recommendations, and implementation guide
 - **[truncation_analysis.md](truncation_analysis.md)** - Analysis of whether "and Other Survey Opportunities" visibility affects performance
+- **[subject_lines_detailed.md](subject_lines_detailed.md)** - Top 50 and bottom 50 performers with full details
+
+### Data Files
+- **[subject_lines_with_recommendations.csv](subject_lines_with_recommendations.csv)** - **ALL 379 subject lines** sorted by C2K with:
+  - Complete metrics (CTR, clicks, spams, unsubs, deliveries)
+  - Feature detection (has_closing_soon, has_treatment, has_cancer, etc.)
+  - Specific recommendations for each subject
+  - Sortable and filterable in Excel/Google Sheets
+
+### Visualizations
 - **digest_copy_visualizations.png** - Visual analysis charts for main copy analysis
 - **truncation_analysis.png** - Visual analysis charts for truncation study
 
